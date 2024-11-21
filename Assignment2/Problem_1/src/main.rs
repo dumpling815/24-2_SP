@@ -1,4 +1,4 @@
+use problem_1::interact_module::gaming;
 fn main() {
-    let mut game_board = board::create
-    game_board.show()
+    gaming();
 }

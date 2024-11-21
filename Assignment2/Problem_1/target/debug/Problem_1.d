@@ -1,1 +1,1 @@
-C:\Users\ericm\Lecture\SystemProgramming\Assignment2\Problem_1\target\debug\Problem_1.exe: C:\Users\ericm\Lecture\SystemProgramming\Assignment2\Problem_1\src\lib.rs C:\Users\ericm\Lecture\SystemProgramming\Assignment2\Problem_1\src\main.rs
+/Users/minuk-0815/Lecture/SystemProgramming/Assignment2/problem_1/target/debug/Problem_1: /Users/minuk-0815/Lecture/SystemProgramming/Assignment2/problem_1/src/lib.rs /Users/minuk-0815/Lecture/SystemProgramming/Assignment2/problem_1/src/main.rs
